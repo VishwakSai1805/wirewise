@@ -3,6 +3,12 @@
   "private": true,
   "version": "0.1.0",
   "description": "A free, interactive computer networks course: watch packets move, inspect every byte, and practise with labs.",
+  "license": "MIT",
+  "author": "VishwakSai1805",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishwakSai1805/wirewise.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

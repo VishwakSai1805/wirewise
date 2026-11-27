@@ -8,6 +8,7 @@ A free, interactive computer networks course that runs entirely in your browser.
 ![Free forever](https://img.shields.io/badge/price-free%20forever-2ea44f)
 ![No tracking](https://img.shields.io/badge/tracking-none-2ea44f)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 **Live site: [vishwaksai1805.github.io/wirewise](https://vishwaksai1805.github.io/wirewise/)**
 
@@ -233,7 +234,7 @@ Found a mistake in a lesson or lab, or have an idea for a topic? Please [open an
 
 ## License
 
-No license has been chosen yet, so all rights are reserved by the author.
+Released under the [MIT License](LICENSE). You are free to use, copy, modify and share Wirewise, including in your own courses, as long as the copyright notice is kept.
 
 ---
 
