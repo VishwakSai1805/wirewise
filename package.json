@@ -1,0 +1,21 @@
+{
+  "name": "wirewise",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A free, interactive computer networks course: watch packets move, inspect every byte, and practise with labs.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "preact": "10.29.8"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "vite": "7.3.8",
+    "vitest": "3.2.7"
+  }
+}
